@@ -2,9 +2,16 @@
 flights <- read.csv("data/flights.csv")
 ```
 
-# TABLES, GRAPHICS, REFERENCES, AND LABELS {#ref-labels}
+# BIOLOGY {#sec: biol}
 
-## TABLES
+## AVAILABLE DATA
+
+```{r available bio data}
+get-survey-samples(spp)
+get-commercial-samples(spp)
+tidy-sample-data()           # to do
+xtable                       # to do
+```
 
 By far the easiest way to present tables in your report is to store the contents of the table in a CSV or Excel file, then read that file in to your R Markdown document as a data frame. Then you can style the table with the `kable` function, or functions in the [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html) pacakge. We recommend using `csasdown::csas_table()`, which simply passes some necessary arguments to `knitr::kable()` so that the tables will render correctly for CSAS.
 

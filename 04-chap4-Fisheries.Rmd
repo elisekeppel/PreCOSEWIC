@@ -1,0 +1,7 @@
+# MATHEMATICS {#math-sci}
+
+
+\begin{equation}
+  1 + 1 = 2
+  (\#eq:reaction)
+\end{equation}

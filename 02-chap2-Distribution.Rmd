@@ -1,0 +1,41 @@
+# DISTRIBUTION {#dist}
+
+## GLOBAL DISTRIBUTION
+
+<!-- to do insert map of global distribution -->
+
+## CANADIAN RANGE
+
+```{r canadian range map}
+get-distribution(spp)  # to do
+plot-distribution() # to do
+```
+
+## HABITAT
+
+### Habitat Preferences
+
+### Depth Distribution
+
+```{r, depth distribution}
+get-survey-depths(spp)  # to do
+get-commercial-depths() # to do
+survey-depths-table()   # to do
+plot-survey-depths()    # to do
+plot-commercial-depths()# to do 
+```
+
+### Habitat Protection
+
+## EXTENT OF OCCURENCE & AREA OF OCCUPANCY
+
+
+
+
+
+You can include most valid TeX math and it will render in all formats:
+
+\begin{equation}
+  1 + 1 = 2
+  (\#eq:reaction)
+\end{equation}
