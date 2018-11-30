@@ -1,15 +1,15 @@
 ---
-title: "Title Here (*Latin Species Name*)"
+title: "Pre-COSEWIC Review (*Latin Species Name*)"
 author: |
-  First. M. Last^1^ and
+  Elise. A. Keppel^1^ and
   Alex B. Smith^2^
-author_list: "Last, F.M. and Smith, A.B."
+author_list: "Keppel, E.A. and Smith, A.B."
 address: |
   ^1^Pacific Biological Station\
      Fisheries and Oceans Canada, 3190 Hammond Bay Road\
      Nanaimo, British Columbia, V9T 6N7, Canada\
-  ^2^Far, far away\
-     Another Galaxy
+  <!-- ^2^Far, far away\ -->
+  <!--    Another Galaxy -->
 year: "2018"
 report_number: "nnn"
 abstract: |
