@@ -1,1 +1,5 @@
 .Rproj.user
+_book/
+knitr-cache-tex/
+knitr-figs-pdf/
+resdoc.upa
